@@ -1,0 +1,1 @@
+INSERT INTO TBL_ANUNCIOS (NAME, TYPE, DESCRIPTION, URL) VALUES ('Netflix', 'Streaming', 'SIte ou app de filmes e series', 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE1mg7FiINOItAE0iMg9t7EWUk0AyB8hdENg&usqp=CAU')
